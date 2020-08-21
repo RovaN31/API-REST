@@ -1,7 +1,7 @@
 # API-REST
 
 <h2>CHASSE AU MONSTRE</h2>
-  Ce projet est une pratique de l'API, ici nous allons travailler à partir des endpoints de l'API sur [dofapi.fr](https://dofapi.fr), jeu Dofus.
+  Ce projet est une pratique de l'API, ici nous allons travailler à partir des endpoints de l'API sur https://dofapi.fr, jeu Dofus.
 Dans ce pratique, on ne chasse que les monstres de type : "Larves", "Monstres des cavernes" et aussi les "Monstres des Plaines herbeuses".
 Au final, on enregistre chaque type de monstres dans un fichier JSON tel que : monstre_larve.json , monstre_caverne.json et monstre_plaine_herbeuse.json
 
